@@ -135,5 +135,6 @@
         "*.+(ts|tsx)": [
             "prettier --loglevel=debug --write"
         ]
-    }
+    },
+    "homepage": "https://github.com/grvv/react-ultimate-resume"
 }

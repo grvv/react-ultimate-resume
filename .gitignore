@@ -1,7 +1,7 @@
 #package files
 
 #build files
-build
+# build
 .env.*
 ./lib/
 # Created by https://www.gitignore.io/api/node,react,intellij+iml
