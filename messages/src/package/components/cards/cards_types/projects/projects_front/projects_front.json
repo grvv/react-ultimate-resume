@@ -1,0 +1,1 @@
+[{"id":"Projects.front.action","defaultMessage":"See {count} project{count, plural, one {} other {s}}"},{"id":"Projects.front.title","defaultMessage":"My <emoji>♥️</emoji> project : "},{"id":"Projects.front.noProject","defaultMessage":"You didn't add any projects."},{"id":"Projects.noProject.buttonLabel","defaultMessage":"Ajouter un projet"}]
